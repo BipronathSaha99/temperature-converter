@@ -15,6 +15,6 @@ This project is completely deployed in Netlify.
   
 ## Authors
 
-- [@BipronathSaha99](https://github.com/BipronathSaha99/)
+- [@BipronathSaha99](https://github.com/BipronathSaha99)
 
   
