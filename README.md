@@ -1,4 +1,4 @@
-# Temperature Converter
+# temperature-converter
 
 *_Temperature Converter_* project is done using Vanilla JavaScript.
 
