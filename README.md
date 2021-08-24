@@ -11,7 +11,7 @@ This project is completely deployed in Netlify.
 ```
 ### LICENSE
 
-[MIT]()
+[MIT](https://github.com/BipronathSaha99/temperature-converter/blob/main/LICENSE)
   
 ## Authors
 
